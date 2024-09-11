@@ -238,17 +238,10 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl text-lg">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-           Web developer, Machine Learning Engineer, Data Analyst.
+           Web Developer, ML Engineer, Data Analyst.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
           I’m Haseeb, and I teach people how to use the Cloud. I’ve been active in Open Source for as long as I’ve been coding — and that’s a long time.
-          </p>
-          <p className="mt-6 prose dark:prose-invert">
-            With some friends, I wrote a <a href="https://www.manning.com/books/go-in-action">book about the Go programming language</a>.
-             I’ve given many <Link href={"/speaking"} >talks</Link> about Go, Distributed Computing, and programming in general.
-          </p>
-          <p className="mt-6 prose dark:prose-invert">
-            Poke around and see what I’m up to. It’s all open source, so feel free to contribute.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
