@@ -17,8 +17,8 @@ function LinkIcon(props) {
 }
 
 export default function Projects() {
-  const headline = "Things I’ve made trying to put my mark on the universe."
-  const intro="I’ve worked on tons of little projects over the years, but these are some of the ones that I’m most proud of. If you see something that piques your interest, check it out via the link below. While you're there, feel free to contribute any ideas that would make it better. Remember: Open source!"
+  const headline = "My creative footprint on the internet."
+  const intro="I’ve worked on tons of little projects but these are the ones that I’m most proud of. Some of them are open-source, so if you see something that piques your interest, check out the code!"
 
   return (
     <>
