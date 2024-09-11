@@ -38,27 +38,13 @@ const siteMeta = {
         dateTime: new Date().getFullYear(),
       },
     },
-    {
-      company: 'Microsoft',
-      title: 'Principal Cloud Developer Advocate',
-      logo: logoMicrosoft,
-      start: '2017',
-      end: '2022',
-    },
-    {
-      company: 'XOR Data Exchange',
-      title: 'CIO',
-      logo: logoXOR,
-      start: '2014',
-      end: '2016',
-    },
-    {
-      company: 'Clarity Services, Inc.',
-      title: 'COO',
-      logo: logoClarity,
-      start: '2008',
-      end: '2014',
-    },
+    // {
+    //   company: 'Microsoft',
+    //   title: 'Principal Cloud Developer Advocate',
+    //   logo: logoMicrosoft,
+    //   start: '2017',
+    //   end: '2022',
+    // },
   ]
 export const projects = [
   {
