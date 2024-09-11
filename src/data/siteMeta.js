@@ -18,14 +18,14 @@ const siteMeta = {
         twitch: "https://twitch.tv/bketelsen",
         youtube: "https://youtube.com/@bketelsen",
     },
-    siteUrl: "https://brian.dev"
+    siteUrl: "https://ahaseeb.com"
 }
  export const resume = [
     {
-      company: 'Amazon',
-      title: 'Principal Developer Advocate',
+      company: 'FAST NUCES Karachi',
+      title: 'Student Teaching Assistant',
       logo: logoAmazon,
-      start: '2022',
+      start: '2024',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
