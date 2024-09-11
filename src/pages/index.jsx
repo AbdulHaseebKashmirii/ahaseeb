@@ -7,10 +7,8 @@ import { Card } from '@/components/Card'
 import { Container } from '@/components/Container'
 import {
   TwitterIcon,
-  InstagramIcon,
   GitHubIcon,
   LinkedInIcon,
-  MastodonIcon
 } from '@/components/SocialIcons'
 
 
@@ -220,7 +218,7 @@ export default function Home({ articles }) {
   return (
     <>
     <NextSeo
-      title="Brian Ketelsen"
+      title="Abdul Haseeb"
       description={siteMeta.description}
       canonical="https://brian.dev/"
       openGraph={{
@@ -257,18 +255,6 @@ export default function Home({ articles }) {
               href={siteMeta.author.twitter}
               aria-label="Follow on Twitter"
               icon={TwitterIcon}
-            />
-            <SocialLink
-              href={siteMeta.author.mastodon}
-              aria-label="Follow on Mastodon"
-              icon={MastodonIcon}
-              rel="me"
-            />
-
-            <SocialLink
-              href={siteMeta.author.instagram}
-              aria-label="Follow on Instagram"
-              icon={InstagramIcon}
             />
             <SocialLink
               href="https://github.com"
