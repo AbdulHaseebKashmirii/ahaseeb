@@ -29,11 +29,11 @@ export default function Uses() {
   return (
     <>
     <NextSeo
-      title="Uses - Brian Ketelsen"
+      title="Uses - Abdul Haseeb"
       description={siteMeta.description}
-      canonical="https://brian.dev/uses"
+      canonical="https://ahaseeb.com/uses"
       openGraph={{
-        url: 'https://brian.dev/uses',
+        url: 'https://ahaseeb.com/uses',
         images: [
           {
             url: `https://og.brian.dev/api/og?title=Uses&desc=Things I use every day to get my work done.`,

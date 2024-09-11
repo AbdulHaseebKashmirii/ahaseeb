@@ -241,7 +241,7 @@ export default function Home({ articles }) {
             Data analyst, web developer, founder, & machine learning engineer.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
-            I’m Haseeb, and I teach people how to use the cloud. I’ve been active in open source for as long as I’ve been coding — and that’s a long time.
+          ’m Abdul Haseeb - data detective by training, a life-long learner, and an entrepreneur in the making.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
