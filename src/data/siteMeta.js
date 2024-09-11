@@ -4,11 +4,11 @@ import logoFleek from '@/images/logos/fleeksvg.svg'
 import logoUblue from '@/images/logos/ublue.png'
  
 const siteMeta = {
-    title: "Brian Ketelsen",
-    description: "Brian Ketelsen is a developer advocate, keynote speaker, author, and open source practitioner.",
-    copyright: "Brian Ketelsen, CC-BY-SA",
+    title: "Abdul Haseeb",
+    description: "Abdul Haseeb is a developer advocate, keynote speaker, author, and open source practitioner.",
+    copyright: "Abdul Haseeb",
     author: {
-        name: "Brian Ketelsen",
+        name: "Abdul Haseeb",
         email: "me@brian.dev",
         twitter: "https://twitter.com/bketelsen",
         mastodon: "https://tty0.social/@bketelsen",
