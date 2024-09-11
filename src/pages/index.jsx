@@ -238,7 +238,7 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl text-lg">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-           Web Developer, ML Engineer, Data Analyst.
+           Web developer, machine learning engineer, & data analyst.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
           I’m Haseeb, and I teach people how to use the cloud. I’ve been active in open source for as long as I’ve been coding — and that’s a long time.
