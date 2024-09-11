@@ -241,14 +241,9 @@ export default function Home({ articles }) {
            Web Developer, ML Engineer, Data Analyst.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
-          I’m Haseeb, and I teach people how to use the Cloud. I’ve been active in Open Source for as long as I’ve been coding — and that’s a long time.
+          I’m Haseeb, and I teach people how to use the cloud. I’ve been active in open source for as long as I’ve been coding — and that’s a long time.
           </p>
           <div className="mt-6 flex gap-6">
-            <SocialLink
-              href={siteMeta.author.twitter}
-              aria-label="Follow on Twitter"
-              icon={TwitterIcon}
-            />
             <SocialLink
               href="https://github.com"
               aria-label="Follow on GitHub"
@@ -258,6 +253,11 @@ export default function Home({ articles }) {
               href={siteMeta.author.linkedin}
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
+            />
+            <SocialLink
+              href={siteMeta.author.twitter}
+              aria-label="Follow on Twitter"
+              icon={TwitterIcon}
             />
           </div>
         </div>
