@@ -35,15 +35,15 @@ function Article({ article }) {
 }
 
 export default function ArticlesIndex({ articles }) {
-  const headline = 'I write about things I’m learning and things I’m building.'
+  const headline = 'Writing on data science, company building, and the aerospace industry.'
   const intro="All of my long-form thoughts on programming, leadership, infrastructure, and more, collected in chronological order."
 
   return (
     <>
     <NextSeo
-      title="Articles - Brian Ketelsen"
+      title="Articles - Abdul Hasseeb"
       description={siteMeta.description}
-      canonical="https://brian.dev/articles"
+      canonical="https://ahaseeb.com/articles"
       openGraph={{
         url: 'https://brian.dev/articles',
         images: [
