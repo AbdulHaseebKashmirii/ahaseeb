@@ -241,7 +241,7 @@ export default function Home({ articles }) {
             Data analyst, web developer, founder, & machine learning engineer.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
-          I’m Abdul Haseeb - data detective by training, a life-long learner, and an entrepreneur in the making. I’m the technical founder of MIKHNOVA, where we are making the best websites and appilcations.
+          I’m Abdul Haseeb - data detective by training, a life-long learner, and an entrepreneur in the making. I’m the technical founder of MIKHNOVA, where we are making the best websites and appilcations. I’m also currently looking for work so I’d love to connect with you!
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
