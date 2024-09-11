@@ -238,7 +238,7 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl text-lg">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Data analyst, web developer, founder, & machine learning engineer.
+            Data analyst, founder, & developer.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
           I’m Abdul Haseeb - data detective by training, a life-long learner, and an entrepreneur in the making. I’m the technical founder of MIKHNOVA, where we are making the best websites and appilcations. I’m also currently looking for work so I’d love to connect with you!
