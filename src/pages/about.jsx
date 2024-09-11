@@ -75,13 +75,12 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Abdul Haseeb - data detective by training, a life-long learner, 
-              and an entrepreneur in the making.
+              Hi, I’m Abdul Haseeb.
             </h1>
             <div className="mt-6 text-lg prose space-y-7 dark:prose-invert text-zinc-600 dark:text-zinc-400">
             <p>
-              Formerly an engineering student, I enrolled at FAST NUCES to pursue my BSc in Computer Science, back when the missing semicolons in my code were no match for my aspirations about technology and innovation.<br />
-              I dove head-first into coding, mastering fundamentals though hands-on projects in C, C++, Data Structures, and Assembly Language.<br />
+              Formerly an engineering student, I enrolled at FAST NUCES to pursue my BSc in Computer Science, back when the missing semicolons in my code were no match for my aspirations about technology and innovation.
+              I dove head-first into coding, mastering fundamentals though hands-on projects in C, C++, Data Structures, and Assembly Language.
               Beyond the classroom, I participated in coding competitions, taught myself Flutter and Python, and attended tech seminars where I discovered my true calling in Data Analysis.
             </p>
               <p>
