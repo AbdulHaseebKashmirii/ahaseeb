@@ -19,7 +19,6 @@ function LinkIcon(props) {
 export default function Projects() {
   const headline = "My creative footprint on the internet."
   const intro="I’ve worked on tons of little projects but these are the ones that I’m most proud of. Some of them are open-source, so if you see something that piques your interest, check out the code!"
-
   return (
     <>
     <NextSeo
