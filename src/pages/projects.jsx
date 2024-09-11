@@ -22,11 +22,11 @@ export default function Projects() {
   return (
     <>
     <NextSeo
-      title="Projects - Brian Ketelsen"
+      title="Projects - Abdul Haseeb"
       description={siteMeta.description}
-      canonical="https://brian.dev/projects"
+      canonical="https://ahaseeb.com/projects"
       openGraph={{
-        url: 'https://brian.dev/projects',
+        url: 'https://ahaseeb.com/projects',
         images: [
           {
             url: `https://og.brian.dev/api/og?title=Projects&desc=${headline}`,
@@ -36,7 +36,7 @@ export default function Projects() {
             type: 'image/jpeg',
           }
         ],
-        siteName: 'brian.dev',
+        siteName: 'ahaseeb.com',
       }}
     />
       <SimpleLayout
