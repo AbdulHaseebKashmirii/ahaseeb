@@ -11,12 +11,8 @@ const siteMeta = {
         name: "Abdul Haseeb",
         email: "abdulhaseeb5654@gmail.com",
         twitter: "https://twitter.com/bketelsen",
-        // mastodon: "https://tty0.social/@bketelsen",
-        // instagram: "https://instagram.com/bketelsen",
         github: "https://github.com/AbdulHaseebKashmirii",
         linkedin: "https://www.linkedin.com/in/abdulhaseebkashmiri",
-        // twitch: "https://twitch.tv/bketelsen",
-        // youtube: "https://youtube.com/@bketelsen",
     },
     siteUrl: "https://ahaseeb.com"
 }
