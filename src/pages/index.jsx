@@ -218,11 +218,11 @@ export default function Home({ articles }) {
   return (
     <>
     <NextSeo
-      title="Abdul Haseeb"
+      title="Home - Abdul Haseeb"
       description={siteMeta.description}
-      canonical="https://brian.dev/"
+      canonical="https://ahaseeb.com/"
       openGraph={{
-        url: 'https://brian.dev',
+        url: 'https://ahaseeb.com',
         images: [
           {
             url: `https://og.brian.dev/api/og?title=${siteMeta.title}&desc=${siteMeta.description}`,

@@ -43,7 +43,7 @@ export default function Uses() {
             type: 'image/jpeg',
           }
         ],
-        siteName: 'brian.dev',
+        siteName: 'ahaseeb.com',
       }}
     />
       <SimpleLayout

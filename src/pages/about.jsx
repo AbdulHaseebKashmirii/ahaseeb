@@ -44,11 +44,11 @@ export default function About() {
   return (
     <>
       <NextSeo
-        title="About - Brian Ketelsen"
+        title="About - Abdul Haseeb"
         description={siteMeta.description}
-        canonical="https://brian.dev/about"
+        canonical="https://ahaseeb.com/about"
         openGraph={{
-          url: 'https://brian.dev/about',
+          url: 'https://ahaseeb.com/about',
           images: [
             {
               url: `https://og.brian.dev/api/og?title=About&desc=${siteMeta.description}`,
@@ -58,7 +58,7 @@ export default function About() {
               type: 'image/jpeg',
             }
           ],
-          siteName: 'brian.dev',
+          siteName: 'ahaseeb.com',
         }}
       />
       <Container className="mt-16 sm:mt-32">

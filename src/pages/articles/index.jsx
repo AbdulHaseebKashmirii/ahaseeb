@@ -45,7 +45,7 @@ export default function ArticlesIndex({ articles }) {
       description={siteMeta.description}
       canonical="https://ahaseeb.com/articles"
       openGraph={{
-        url: 'https://brian.dev/articles',
+        url: 'https://ahaseeb.com/articles',
         images: [
           {
             url: `https://og.brian.dev/api/og?title=Articles&desc=${headline}`,
@@ -55,7 +55,7 @@ export default function ArticlesIndex({ articles }) {
             type: 'image/jpeg',
           }
         ],
-        siteName: 'brian.dev',
+        siteName: 'ahaseeb.com',
       }}
     />
       <SimpleLayout
