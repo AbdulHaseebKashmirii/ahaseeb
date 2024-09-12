@@ -232,7 +232,7 @@ export default function Home({ articles }) {
             type: 'image/jpeg',
           }
         ],
-        siteName: 'brian.dev',
+        siteName: 'ahaseeb.com',
       }}
     />
       <Container className="mt-9">
