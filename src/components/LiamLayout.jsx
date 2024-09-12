@@ -48,7 +48,7 @@ export function LiamLayout({
             type: 'image/jpeg',
           }
         ],
-        siteName: 'brian.dev',
+        siteName: 'ahaseeb.com',
       }}
     />
       <Container className="mt-16 lg:mt-32">

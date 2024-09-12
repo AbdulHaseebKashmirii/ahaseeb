@@ -179,7 +179,7 @@ function Resume() {
           </li>
         ))}
       </ol>
-      <Button href="https://linkedin.com/in/brianketelsen" variant="secondary" className="group mt-6 w-full">
+      <Button href="https://www.linkedin.com/in/abdulhaseebkashmiri/" variant="secondary" className="group mt-6 w-full">
                More on LinkedIn 
         <ArrowDownIcon className="h-4 w-4 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
       </Button>
@@ -245,7 +245,7 @@ export default function Home({ articles }) {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="https://github.com"
+              href="//github.com/AbdulHaseebKashmirii"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
