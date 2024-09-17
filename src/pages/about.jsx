@@ -102,7 +102,7 @@ export default function About() {
               <SocialLink href={siteMeta.author.linkedin} icon={LinkedInIcon} className="mt-4">
                 Follow on LinkedIn
               </SocialLink>
-              <SocialLink href={siteMeta.author.twitter} icon={TwitterIcon}>
+              <SocialLink href={siteMeta.author.twitter} icon={TwitterIcon} className="mt-4">
                 Follow on Twitter
               </SocialLink>
               <SocialLink
