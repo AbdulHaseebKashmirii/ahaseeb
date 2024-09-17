@@ -1,7 +1,6 @@
 
 import logoAmazon from '@/images/logos/aws.svg'
-import logoFleek from '@/images/logos/fleeksvg.svg'
-import logoUblue from '@/images/logos/ublue.png'
+
  
 const siteMeta = {
     title: "Abdul Haseeb",
@@ -21,7 +20,7 @@ const siteMeta = {
       company: 'FAST NUCES Karachi',
       title: 'Student Teaching Assistant',
       logo: logoAmazon,
-      start: '2022',
+      start: '2024',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),

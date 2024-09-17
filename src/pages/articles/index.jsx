@@ -21,7 +21,7 @@ function Article({ article }) {
           {formatDate(article.date)}
         </Card.Eyebrow>
         <Card.Description>{article.description}</Card.Description>
-        <Card.Cta>Read Blogs</Card.Cta>
+        <Card.Cta>Read article</Card.Cta>
       </Card>
       <Card.Eyebrow
         as="time"
@@ -41,11 +41,11 @@ export default function ArticlesIndex({ articles }) {
   return (
     <>
     <NextSeo
-      title="Blogs - Abdul Hasseeb"
+      title="Articles - Abdul Hasseeb"
       description={siteMeta.description}
-      canonical="https://ahaseeb.com/blogs"
+      canonical="https://ahaseeb.com/articles"
       openGraph={{
-        url: 'https://ahaseeb.com/blogs',
+        url: 'https://ahaseeb.com/articles',
         images: [
           {
             url: `https://og.brian.dev/api/og?title=Articles&desc=${headline}`,
