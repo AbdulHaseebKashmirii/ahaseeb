@@ -34,25 +34,25 @@ export default function Uses() {
       canonical="https://ahaseeb.com/uses"
       openGraph={{
         url: 'https://ahaseeb.com/uses',
-        images: [
-          {
-            url: `https://og.brian.dev/api/og?title=Uses&desc=Things I use every day to get my work done.`,
-            width: 1200,
-            height: 600,
-            alt: 'Og Image Alt',
-            type: 'image/jpeg',
-          }
-        ],
-
         // images: [
         //   {
-        //     url: `https://i0.wp.com/picjumbo.com/wp-content/uploads/magical-spring-forest-scenery-during-morning-breeze-free-photo.jpg?w=600&quality=80 I use every day to get my work done.`,
+        //     url: `https://og.brian.dev/api/og?title=Uses&desc=Things I use every day to get my work done.`,
         //     width: 1200,
         //     height: 600,
         //     alt: 'Og Image Alt',
         //     type: 'image/jpeg',
         //   }
         // ],
+
+        images: [
+          {
+            url: `https://i0.wp.com/picjumbo.com/wp-content/uploads/magical-spring-forest-scenery-during-morning-breeze-free-photo.jpg?w=600&quality=80 I use every day to get my work done.`,
+            width: 1200,
+            height: 600,
+            alt: 'Og Image Alt',
+            type: 'image/jpeg',
+          }
+        ],
         siteName: 'ahaseeb.com',
       }}
     />
