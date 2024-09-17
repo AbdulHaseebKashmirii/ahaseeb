@@ -57,7 +57,7 @@ export default function Uses() {
               I don&apos;t know how Lenovo makes the Yoga ThinkPad x380 so compact yet so fast and responsive, no matter what load I put on it
             </Tool>
             <Tool title="x380 Yoga">
-              8th Generation i7 with 1024 GB of memory, running Windows 11 for my work as a data analyst and developer.
+              8th Generation i7 with 1024 GB of memory, running Windows 11 for my work as a data analyst, founder, and developer
             </Tool>
             {/* <Tool title="Moonlander Keyboard">
               I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
