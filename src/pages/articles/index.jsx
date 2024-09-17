@@ -43,9 +43,9 @@ export default function ArticlesIndex({ articles }) {
     <NextSeo
       title="Articles - Abdul Hasseeb"
       description={siteMeta.description}
-      canonical="https://ahaseeb.com/articles"
+      canonical="https://ahaseeb.com/blogs"
       openGraph={{
-        url: 'https://ahaseeb.com/articles',
+        url: 'https://ahaseeb.com/blogs',
         images: [
           {
             url: `https://og.brian.dev/api/og?title=Articles&desc=${headline}`,
