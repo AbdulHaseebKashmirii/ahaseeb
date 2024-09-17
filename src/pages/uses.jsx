@@ -65,9 +65,9 @@ export default function Uses() {
             <Tool title="X380” Lenovo Yoga ThinkPa 16GB RAM (2023)">
               I don&apos;t know how Lenovo makes the Yoga ThinkPad x380 so compact yet so fast and responsive, no matter what load I put on it
             </Tool>
-            {/* <Tool title="Dell XPS 8950">
-              12th Generation i7 with oodles of memory and 4TB of NVMe drives running Bluefin Linux.
-            </Tool> */}
+            { <Tool title="x380 Yoga">
+              "8th Generation i7, 1024 GB of memory, running Windows 11 for my work as a data analyst and developer."
+            </Tool> }
             {/* <Tool title="Moonlander Keyboard">
               I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
             </Tool>
