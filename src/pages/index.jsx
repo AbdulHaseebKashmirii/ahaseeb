@@ -245,7 +245,7 @@ export default function Home({ articles }) {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="//github.com/AbdulHaseebKashmirii"
+              href="https://github.com/AbdulHaseebKashmirii"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
