@@ -68,12 +68,12 @@ export default function Uses() {
             {/* <Tool title="Dell XPS 8950">
               12th Generation i7 with oodles of memory and 4TB of NVMe drives running Bluefin Linux.
             </Tool> */}
-            <Tool title="Moonlander Keyboard">
+            {/* <Tool title="Moonlander Keyboard">
               I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
             </Tool>
             <Tool title="Apple Magic Trackpad">
               It even works on Linux. Who knew?
-            </Tool>
+            </Tool> */}
 
           </ToolsSection>
 
