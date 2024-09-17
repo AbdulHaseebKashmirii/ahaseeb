@@ -34,25 +34,16 @@ export default function Uses() {
       canonical="https://ahaseeb.com/uses"
       openGraph={{
         url: 'https://ahaseeb.com/uses',
-        // images: [
-        //   {
-        //     url: `https://og.brian.dev/api/og?title=Uses&desc=Things I use every day to get my work done.`,
-        //     width: 1200,
-        //     height: 600,
-        //     alt: 'Og Image Alt',
-        //     type: 'image/jpeg',
-        //   }
-        // ],
-
         images: [
           {
-            url: `https://i0.wp.com/picjumbo.com/wp-content/uploads/magical-spring-forest-scenery-during-morning-breeze-free-photo.jpg?w=600&quality=80 I use every day to get my work done.`,
+            url: `https://og.brian.dev/api/og?title=Uses&desc=Things I use every day to get my work done.`,
             width: 1200,
             height: 600,
             alt: 'Og Image Alt',
             type: 'image/jpeg',
           }
         ],
+
         siteName: 'ahaseeb.com',
       }}
     />
@@ -65,8 +56,8 @@ export default function Uses() {
             <Tool title="X380” Lenovo Yoga ThinkPa 16GB RAM (2023)">
               I don&apos;t know how Lenovo makes the Yoga ThinkPad x380 so compact yet so fast and responsive, no matter what load I put on it
             </Tool>
-            <Tool title="Dell XPS 8950">
-              12th Generation i7 with oodles of memory and 4TB of NVMe drives running Bluefin Linux.
+            <Tool title="x380 Yoga">
+              8th Generation i7 with 1024 GB of memory, running Windows 11 for my work as a data analyst and developer.
             </Tool>
             <Tool title="Moonlander Keyboard">
               I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
