@@ -36,20 +36,20 @@ const siteMeta = {
     // },
   ]
 export const projects = [
-  {
-    name: 'Fleek',
-    description:
-      'Install and manage all the tools you need to be productive.',
-    link: { href: 'https://getfleek.dev', label: 'getfleek.dev' },
-    logo: logoFleek,
-  },
-  {
-    name: 'Universal Blue',
-    description:
-      'Custom Operating System images based on Fedora.',
-    link: { href: 'https://ublue.it', label: 'Universal Blue' },
-    logo: logoUblue,
-  },
+  // {
+  //   name: 'Fleek',
+  //   description:
+  //     'Install and manage all the tools you need to be productive.',
+  //   link: { href: 'https://getfleek.dev', label: 'getfleek.dev' },
+  //   logo: logoFleek,
+  // },
+  // {
+  //   name: 'Universal Blue',
+  //   description:
+  //     'Custom Operating System images based on Fedora.',
+  //   link: { href: 'https://ublue.it', label: 'Universal Blue' },
+  //   logo: logoUblue,
+  // },
 ]
 
 
