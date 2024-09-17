@@ -10,7 +10,7 @@ const siteMeta = {
     author: {
         name: "Abdul Haseeb",
         email: "abdulhaseeb5654@gmail.com",
-        twitter: "https://twitter.com/bketelsen",
+        twitter: "https://twitter.com/abdulhaseebk158",
         github: "https://github.com/AbdulHaseebKashmirii",
         linkedin: "https://www.linkedin.com/in/abdulhaseebkashmiri",
     },
