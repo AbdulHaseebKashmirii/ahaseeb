@@ -21,7 +21,7 @@ const siteMeta = {
       company: 'FAST NUCES Karachi',
       title: 'Student Teaching Assistant',
       logo: logoAmazon,
-      start: '2024',
+      start: '2022',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
