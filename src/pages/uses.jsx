@@ -61,10 +61,10 @@ export default function Uses() {
             </Tool>
             {/* <Tool title="Moonlander Keyboard">
               I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
-            </Tool>
-            <Tool title="Apple Magic Trackpad">
-              It even works on Linux. Who knew?
             </Tool> */}
+            {/* <Tool title="Apple Magic Trackpad">
+              It even works on Linux. Who knew?
+            </Tool>  */}
 
           </ToolsSection>
           <ToolsSection title="Development tools">
@@ -76,11 +76,25 @@ export default function Uses() {
             </Tool>
             {/* <Tool title="Moonlander Keyboard">
               I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
-            </Tool>
-            <Tool title="Apple Magic Trackpad">
-              It even works on Linux. Who knew?
             </Tool> */}
+            {/* <Tool title="Apple Magic Trackpad">
+              It even works on Linux. Who knew?
+            </Tool>  */}
+          </ToolsSection>          
 
+          <ToolsSection title="Productivity">
+            <Tool title="Badminton">
+            Badminton is a fast-paced racquet sport played individually or in teams, where players hit a shuttlecock over a net. It enhances fitness, coordination, and agility while promoting social interaction and teamwork, making it a fun way to stay active and relieve stress.
+            </Tool>
+            <Tool title="Notion Calendar">
+            I like notion calendar because it syncs with my Google Calendar and it can run in the background to make sure I don’t miss any events.
+            </Tool>
+            {/* <Tool title="Moonlander Keyboard">
+              I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
+            </Tool> */}
+            {/* <Tool title="Apple Magic Trackpad">
+              It even works on Linux. Who knew?
+            </Tool>  */}
           </ToolsSection>          
 
         </div>
