@@ -81,12 +81,12 @@ export default function Uses() {
 
           <ToolsSection title="Productivity">
             <Tool title="Badminton">
-            Badminton is a fast-paced sport that boosts fitness and coordination by hitting a shuttlecock over a net, individually or in teams. It&apos;s a fun way to stay active and relieve stress.
+            Badminton is a fast-paced sport that boosts fitness, coordination, and social interaction by hitting a shuttlecock over a net, making it a fun way to stay active and relieve stress.
             </Tool>
             <Tool title="Notion Calendar">
             I like notion calendar because it syncs with my Google Calendar and it can run in the background to make sure I don&apos;t miss any events.
             </Tool>
-            <Tool title="SocialFuel">
+            <Tool title="Social Fuel">
             Outings with friends recharge me, sparking creativity and enhancing my problem-solving skills to keep me motivated and effective.
             </Tool>
 
