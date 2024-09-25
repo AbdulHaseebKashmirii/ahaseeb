@@ -6,8 +6,8 @@ export default {
       siteName: 'Abdul Haseeb',
     },
     twitter: {
-      handle: '@bketelsen',
-      site: '@bketelsen',
+      handle: '@abdulhaseebk158',
+      site: '@abdulhaseebk158',
       cardType: 'summary_large_image',
     },
   };
