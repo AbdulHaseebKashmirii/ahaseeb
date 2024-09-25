@@ -67,6 +67,21 @@ export default function Uses() {
             </Tool> */}
 
           </ToolsSection>
+          <ToolsSection title="Development tools">
+            <Tool title="VSCode">
+              Yeah I know it&apos;s basic to use VSCode but I don&apos;t really care. I keep my setup pretty minimal and I usually turn off all the distractions in my IDE to keep it as minimal as possible.
+            </Tool>
+            <Tool title="Power BI">
+            As a data analyst, Power BI empowers me to transform raw data into actionable insights through interactive visualizations, seamless data integration, real-time analytics, customizable dashboards, robust data modeling, collaborative features, mobile accessibility, natural language querying, and advanced AI-driven analytics, facilitating informed decision-making across the organization.
+            </Tool>
+            {/* <Tool title="Moonlander Keyboard">
+              I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
+            </Tool>
+            <Tool title="Apple Magic Trackpad">
+              It even works on Linux. Who knew?
+            </Tool> */}
+
+          </ToolsSection>          
 
         </div>
       </SimpleLayout>
