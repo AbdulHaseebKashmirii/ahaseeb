@@ -72,10 +72,10 @@ export default function Uses() {
              Yeah I know it&apos;s basic to use VSCode but I don&apos;t really care. I keep my setup pretty minimal and I usually turn off all the distractions in my IDE to keep it as minimal as possible.
             </Tool>
             <Tool title="Power BI">
-             As a data analyst, Power BI empowers me to transform raw data into actionable insights through interactive visualizations, seamless integration, and real-time analytics, enabling informed decision-making with customizable dashboards, robust data modeling, and advanced AI-driven features.
+            Power BI enables me to convert raw data into actionable insights with interactive visualizations, customizable dashboards, and real-time analytics for informed decision-making.
             </Tool>
             <Tool title="Chrome">
-             Google Chrome is still the most popular web browser so it’s what I use to test my web apps most of the time.
+             Google Chrome is still the most popular web browser so it&apos;s what I use to test my web apps most of the time.
             </Tool>
           </ToolsSection>          
 
@@ -89,7 +89,7 @@ export default function Uses() {
             <Tool title="Catalyst">
             An active social life is essential for my productivity as a data analyst. Fun outings with friends recharge me and spark new ideas, helping me see patterns and enhance my problem-solving skills, keeping me motivated and effective at work!
             </Tool>
-            
+
           </ToolsSection>          
 
         </div>
