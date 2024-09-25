@@ -74,9 +74,7 @@ export default function Uses() {
             <Tool title="Power BI">
             As a data analyst, Power BI empowers me to transform raw data into actionable insights through interactive visualizations, seamless integration, and real-time analytics, enabling informed decision-making with customizable dashboards, robust data modeling, and advanced AI-driven features.
             </Tool>
-            {/* <Tool title="Moonlander Keyboard">
-              I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
-            </Tool> */}
+
             {/* <Tool title="Apple Magic Trackpad">
               It even works on Linux. Who knew?
             </Tool>  */}
