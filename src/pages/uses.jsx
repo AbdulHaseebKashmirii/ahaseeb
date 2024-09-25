@@ -87,11 +87,11 @@ export default function Uses() {
             Badminton is a fast-paced racquet sport played individually or in teams, where players hit a shuttlecock over a net. It enhances fitness, coordination, and agility while promoting social interaction and teamwork, making it a fun way to stay active and relieve stress.
             </Tool>
             <Tool title="Notion Calendar">
-            I like notion calendar because it syncs with my Google Calendar and it can run in the background to make sure I don’t miss any events.
+            I like notion calendar because it syncs with my Google Calendar and it can run in the background to make sure I don&apos;t miss any events.
             </Tool>
-            {/* <Tool title="Moonlander Keyboard">
-              I had terrible RSI problems until I switched to the Moonlander and the Apple Magic Trackpad.
-            </Tool> */}
+            <Tool title="Catalyst">
+            An active social life is essential for my productivity as a data analyst. Fun outings with friends recharge me and spark new ideas, helping me see patterns and enhance my problem-solving skills, keeping me motivated and effective at work!
+            </Tool>
             {/* <Tool title="Apple Magic Trackpad">
               It even works on Linux. Who knew?
             </Tool>  */}
