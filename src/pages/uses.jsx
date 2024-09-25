@@ -92,9 +92,7 @@ export default function Uses() {
             <Tool title="Catalyst">
             An active social life is essential for my productivity as a data analyst. Fun outings with friends recharge me and spark new ideas, helping me see patterns and enhance my problem-solving skills, keeping me motivated and effective at work!
             </Tool>
-            {/* <Tool title="Apple Magic Trackpad">
-              It even works on Linux. Who knew?
-            </Tool>  */}
+
           </ToolsSection>          
 
         </div>
