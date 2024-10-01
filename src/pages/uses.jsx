@@ -86,8 +86,8 @@ export default function Uses() {
             <Tool title="Social Fuel">
             Outings with friends recharge me, sparking creativity and enhancing my problem-solving skills to keep me motivated and effective.
             </Tool>
-            <Tool title="Photography ">
-            Photography is a creative art that transforms ordinary moments into captivating stories, enhancing observation and expression through the lens of a camera. It allows us to preserve memories and see the world through new, imaginative perspectives.
+            <Tool title="Photography">
+            Photography rejuvenates me, igniting creativity and sharpening my observational skills as I capture nature&apos;s wonders, keeping me inspired and effective in my craft.
             </Tool>
             <Tool title="Notion Calendar">
             I like notion calendar because it syncs with my Google Calendar and it can run in the background to make sure I don&apos;t miss any events.
