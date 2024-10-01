@@ -222,7 +222,7 @@ export default function Home({ articles }) {
       description={siteMeta.description}
       canonical="https://ahaseeb.com/"
       openGraph={{
-        url: 'https://ahaseeb.com',
+        url: 'https://ahaseeb.com/',
         images: [
           {
             url: `https://og.brian.dev/api/og?title=${siteMeta.title}&desc=${siteMeta.description}`,
