@@ -53,7 +53,7 @@ export default function Uses() {
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
-            <Tool title="X380” Lenovo Yoga ThinkPa 16GB RAM (2023)">
+            <Tool title="X380” Lenovo Yoga ThinkPad 16GB RAM (2023)">
               I don&apos;t know how Lenovo makes the Yoga ThinkPad x380 so compact yet so fast and responsive, no matter what load I put on it
             </Tool>
             <Tool title="x380 Yoga">
