@@ -83,12 +83,16 @@ export default function Uses() {
             <Tool title="Badminton">
             Badminton is a fast-paced sport that boosts fitness, coordination, and social interaction by hitting a shuttlecock over a net, making it a fun way to stay active and relieve stress.
             </Tool>
-            <Tool title="Notion Calendar">
-            I like notion calendar because it syncs with my Google Calendar and it can run in the background to make sure I don&apos;t miss any events.
-            </Tool>
             <Tool title="Social Fuel">
             Outings with friends recharge me, sparking creativity and enhancing my problem-solving skills to keep me motivated and effective.
             </Tool>
+            <Tool title="Photography ">
+            Photography is a creative art that transforms ordinary moments into captivating stories, enhancing observation and expression through the lens of a camera. It allows us to preserve memories and see the world through new, imaginative perspectives.
+            </Tool>
+            <Tool title="Notion Calendar">
+            I like notion calendar because it syncs with my Google Calendar and it can run in the background to make sure I don&apos;t miss any events.
+            </Tool>
+           
 
           </ToolsSection>          
 
