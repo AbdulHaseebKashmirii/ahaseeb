@@ -218,7 +218,7 @@ export default function Home({ articles }) {
   return (
     <>
     <NextSeo
-      title="Home - Abdul Haseeb"
+      title="Abdul Haseeb - Data analyst, founder, & developer"
       description={siteMeta.description}
       canonical="https://ahaseeb.com/"
       openGraph={{
