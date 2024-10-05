@@ -14,7 +14,7 @@ export default function ThankYou() {
       </Head>
       <SimpleLayout
         title="Thanks for hopping on board! 🎉"
-        intro="I’ll send you an email any time I publish a new blog post, release a new project, or have anything interesting to share that I think you’d want to hear about. You can unsubscribe at any time, no hard feelings."
+        intro="I can’t wait to share my adventures as a data scientist, developer, and founder with you. You’ll get the inside scoop whenever I launch a new project, drop some cool insights, or have exciting news to share. And don’t worry, if you ever want to jump ship, you can unsubscribe anytime—no hard feelings!"
       />
     </>
   )
