@@ -2,7 +2,7 @@ export default {
     openGraph: {
       type: 'website',
       locale: 'en_IE',
-      url: 'https://www.ahaseeb.com',
+      url: 'https://www.ahaseeb.com/',
       siteName: 'Abdul Haseeb',
     },
     twitter: {
