@@ -9,7 +9,7 @@ export default function ThankYou() {
         <title>You’re subscribed - Abdul Haseeb</title>
         <meta
           name="description"
-          content="Get notified when I publish something new."
+          content="Let's create something amazing together!."
         />
       </Head>
       <SimpleLayout
