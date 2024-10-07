@@ -79,18 +79,25 @@ export default function About() {
             </h1>
             <div className="mt-6 text-lg prose space-y-7 dark:prose-invert text-zinc-600 dark:text-zinc-400">
             <p>
-              Formerly an engineering student, I enrolled at FAST NUCES to pursue my BSc in Computer Science, back when the missing semicolons in my code were no match for my aspirations about technology and innovation.
-              I dove head-first into coding, mastering fundamentals though hands-on projects in C, C++, Data Structures, and Assembly Language.
-              Beyond the classroom, I participated in coding competitions, taught myself Python, and attended tech seminars where I discovered my true calling in Data Analysis.
+              I initially started as an engineering student, but my interest in technology led me to pursue a BSc in Computer Science at FAST NUCES. This marked a significant shift in my career path and was a deliberate choice to follow my passion. 
+              During my time at university, I focused extensively on mastering the fundamentals of programming languages such as C, C++, and Assembly Language. These languages helped me build a strong foundation in computer science, especially in areas like Data Structures, 
+              which are essential for problem-solving and algorithmic thinking.
             </p>
-              <p>
-              An exciting chapter unfolded when I was awarded a scholarship from DataCamp. Fast forward to now, I’m a certified data analyst who has worked with Creds, leveraging SQL, Tableau and Power BI to drive strategic investment decisions. Data has continually inspired me with its power to tell stories, predict the future, and solve the world’s biggest problems. Currently, I balance my time between university and running my start-up.
-              I’m especially interested in applying my skills to drive environmental protection, health innovation and educational empowerment.
-              </p>
-              <p>
-              When I’m not coding or innovating, you can find me competing in badminton tournaments, 
-              volunteering for Al-Khidmat Foundation, and counseling aspiring young tech enthusiasts. I am eager to learn from both seasoned professionals and emerging talents, Leave no stone unturned in the world of Data Analysis, striving to deliver insights that contribute to a more resilient, sustainable, and thriving planet.
-              </p>
+            <p>
+              Outside of coursework, I was highly involved in coding competitions. These fast-paced and challenging events reflected my competitive spirit and drive for continuous improvement. Additionally, 
+              I took the initiative to teach myself Python, a highly versatile and popular programming language used in data analysis and machine learning.
+              This self-motivation and adaptability to new tools and technologies have been essential in my learning journey.
+            </p>
+            <p>
+              A major turning point for me was receiving a scholarship from DataCamp, a leading platform for data science education.
+               This opportunity allowed me to delve deeper into data analysis and equipped me with specialized skills in tools such as SQL, Tableau, and Power BI—essential for data visualization, database management, and making data-driven business decisions. I am passionate about the power of data, which I see not just as a technical tool but as a way to tell stories,
+              predict future trends, and address some of the world's most pressing issues, such as environmental protection, health innovation, and educational empowerment. 
+            </p>
+            <p>
+             Overall, my journey reflects a blend of technical expertise, self-driven learning, and a strong sense of purpose. 
+             My focus on data analysis, paired with my passion for using technology to solve global challenges, 
+             sets me on a path toward making meaningful contributions in fields like environmental sustainability, healthcare, and education. 
+            </p>
             </div>
           </div>
           <div className="lg:pl-20">
