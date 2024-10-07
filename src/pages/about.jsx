@@ -81,7 +81,7 @@ export default function About() {
             <p>
               Formerly an engineering student, I enrolled at FAST NUCES to pursue my BSc in Computer Science, back when the missing semicolons in my code were no match for my aspirations about technology and innovation.
               I dove head-first into coding, mastering fundamentals though hands-on projects in C, C++, Data Structures, and Assembly Language.
-              Beyond the classroom, I participated in coding competitions, taught myself Flutter and Python, and attended tech seminars where I discovered my true calling in Data Analysis.
+              Beyond the classroom, I participated in coding competitions, taught myself Python, and attended tech seminars where I discovered my true calling in Data Analysis.
             </p>
               <p>
               An exciting chapter unfolded when I was awarded a scholarship from DataCamp. Fast forward to now, I’m a certified data analyst who has worked with Creds, leveraging SQL, Tableau and Power BI to drive strategic investment decisions. Data has continually inspired me with its power to tell stories, predict the future, and solve the world’s biggest problems. Currently, I balance my time between university and running my start-up.
