@@ -89,8 +89,7 @@ export default function About() {
               </p>
               <p>
               When I’m not coding or innovating, you can find me competing in badminton tournaments, 
-              volunteering for Al-Khidmat Foundation, and counseling aspiring young tech enthusiasts. I am eager to learn from both seasoned professionals and emerging talents, leave no stone unturned in the world of Data Science and Artificial Intelligence, 
-              and contribute to a more resilient, sustainable, and thriving planet.
+              volunteering for Al-Khidmat Foundation, and counseling aspiring young tech enthusiasts. I am eager to learn from both seasoned professionals and emerging talents, Leave no stone unturned in the world of Data Analysis, striving to deliver insights that contribute to a more resilient, sustainable, and thriving planet.
               </p>
             </div>
           </div>
