@@ -119,7 +119,7 @@ function Newsletter() {
         <span className="ml-3">Get in touch</span>
       </h2>
       <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
-        Get notified
+        Let’s create something amazing together!.
       </p>
       <div className="mt-6 flex">
         <input
