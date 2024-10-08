@@ -87,6 +87,9 @@ export default function About() {
               <p>
               A major turning point for me was receiving a scholarship from DataCamp, a leading platform for data science education. This opportunity allowed me to delve deeper into data analysis and equipped me with specialized skills in tools such as SQL, Tableau, and Power BI—essential for data visualization, database management, and making data-driven business decisions. I am passionate about the power of data, which I see not just as a technical tool but as a way to tell stories, predict future trends, and address some of the world’s most pressing issues, such as environmental protection, health innovation, and educational empowerment. 
               </p>
+              <p>
+                Overall, my journey reflects a blend of technical expertise, self-driven learning, and a strong sense of purpose. My focus on data analysis, paired with my passion for using technology to solve global challenges, sets me on a path toward making meaningful contributions in fields like environmental sustainability, healthcare, and education.
+              </p>
             </div>
           </div>
           <div className="lg:pl-20">
