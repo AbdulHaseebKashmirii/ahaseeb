@@ -82,8 +82,7 @@ export default function About() {
              I initially started as an engineering student, but my interest in technology led me to pursue a BSc in Computer Science at FAST NUCES. This marked a significant shift in my career path and was a deliberate choice to follow my passion. During my time at university, I focused extensively on mastering the fundamentals of programming languages such as C, C++, and Assembly Language. These languages helped me build a strong foundation in computer science, especially in areas like Data Structures, which are essential for problem-solving and algorithmic thinking
             </p>
               <p>
-              An exciting chapter unfolded when I was awarded a scholarship from DataCamp. Fast forward to now, I’m a certified data analyst who has worked with Creds, leveraging SQL, Tableau and Power BI to drive strategic investment decisions. Data has continually inspired me with its power to tell stories, predict the future, and solve the world’s biggest problems. Currently, I balance my time between university and running my start-up.
-              I’m especially interested in applying my skills to drive environmental protection, health innovation and educational empowerment.
+             Outside of coursework, I was highly involved in coding competitions. These fast-paced and challenging events reflected my competitive spirit and drive for continuous improvement. Additionally, I took the initiative to teach myself Python, a highly versatile and popular programming language used in data analysis and machine learning. This self-motivation and adaptability to new tools and technologies have been essential in my learning journey.
               </p>
               <p>
               When I’m not coding or innovating, you can find me competing in badminton tournaments, 
