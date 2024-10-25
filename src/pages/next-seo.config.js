@@ -9,5 +9,6 @@ export default {
       handle: '@abdulhaseebk158',
       site: '@abdulhaseebk158',
       cardType: 'summary_large_image',
+      
     },
   };
