@@ -241,7 +241,7 @@ export default function Home({ articles }) {
             Data analyst, specialist, & developer.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
-          I’m Abdul Haseeb, I’m a data detective by business, a lifelong learner, and an aspiring entrepreneur. At MIKHNOVA, where we create the greatest websites and applications, I’m the technical founder. I’d like to get in touch with you as I’m currently looking for work as well!
+          I’m Abdul Haseeb, a data analyst and Power BI developer with a passion for transforming data into actionable insights. I specialize in creating dynamic visualizations and dashboards that help businesses make informed decisions. I’m currently seeking new opportunities and would love to connect!
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
