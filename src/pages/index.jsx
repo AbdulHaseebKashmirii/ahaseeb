@@ -218,7 +218,7 @@ export default function Home({ articles }) {
   return (
     <>
     <NextSeo
-      title="Abdul Haseeb - Data analyst, founder, & developer"
+      title="Abdul Haseeb - Data analyst, specialist, & developer"
       description={siteMeta.description}
       canonical="https://ahaseeb.com/"
       openGraph={{
@@ -238,7 +238,7 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl text-lg">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Data analyst, founder, & developer.
+            Data analyst, specialist, & developer.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
           I’m Abdul Haseeb, I’m a data detective by business, a lifelong learner, and an aspiring entrepreneur. At MIKHNOVA, where we create the greatest websites and applications, I’m the technical founder. I’d like to get in touch with you as I’m currently looking for work as well!
