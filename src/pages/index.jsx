@@ -218,7 +218,7 @@ export default function Home({ articles }) {
   return (
     <>
     <NextSeo
-      title="Abdul Haseeb - Data analyst, specialist, & developer"
+      title="Abdul Haseeb - Data Analyst | Power BI developer"
       description={siteMeta.description}
       canonical="https://ahaseeb.com/"
       openGraph={{
