@@ -241,7 +241,7 @@ export default function Home({ articles }) {
             Data Analyst | Power BI Developer.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
-          I’m Abdul Haseeb,I unlock insights by transforming data into dynamic visualizations and actionable dashboards. With expertise in data analysis and Power BI development, I empower businesses to make informed decisions. I’m excited to explore new opportunities and collaborate with like-minded professionals.
+          I’m Abdul Haseeb, I unlock insights by transforming data into dynamic visualizations and actionable dashboards. With expertise in data analysis and Power BI development, I empower businesses to make informed decisions. I’m excited to explore new opportunities and collaborate with like-minded professionals.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
