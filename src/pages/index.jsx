@@ -238,7 +238,7 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl text-lg">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Data Analyst | PowerBI Developer.
+            Data Analyst | Power BI Developer.
           </h1>
           <p className="mt-6 prose dark:prose-invert">
           I’m Abdul Haseeb, I unlock insights by transforming data into dynamic visualizations and actionable dashboards. With expertise in data analysis and Power BI development, I empower businesses to make informed decisions. I’m excited to explore new opportunities and collaborate with like-minded professionals.
